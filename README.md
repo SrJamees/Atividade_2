@@ -24,7 +24,7 @@ O circuito pode ser simulado no Wokwi usando o seguinte diagrama:
 ```json
 {
   "version": 1,
-  "author": "Uri Shaked",
+  "author": "James",
   "editor": "wokwi",
   "parts": [
     {
